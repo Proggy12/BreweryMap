@@ -1,6 +1,6 @@
 name,brewery_type,address_1,city,state_province,postal_code,country,latitude,longitude
 's,brewpub,1 Friesener Straße,Kronach,Bayern,96317,Germany,50.241246,11.327765
-’t Drankorgel,micro,31a Geelsebaan,Mol,Vlaanderen,2400,Belgium,51.1762578,5.0569549
+'t Drankorgel,micro,31a Geelsebaan,Mol,Vlaanderen,2400,Belgium,51.1762578,5.0569549
 'T Kroontje,micro,62 Hogebrug,Lebbeke,Vlaanderen,9280,Belgium,51.0078878,4.0913928
 (405) Brewing Co,micro,1716 Topeka St,Norman,Oklahoma,73069-8224,United States,35.25738891,-97.46818222
 (512) Brewing Co,micro,407 Radam Ln Ste F200,Austin,Texas,78745-1197,United States,,
@@ -115,7 +115,7 @@ name,brewery_type,address_1,city,state_province,postal_code,country,latitude,lon
 38 State Brewing,micro,8071 S Broadway Ste A,Littleton,Colorado,80122-2730,United States,,
 380 Brewing Company,planning,,Clancy,Montana,59634,United States,,
 3806 Brewing,micro,12 Enterprise Avenue,Berwick,VIC,3806,Australia,-38.0371856,145.3416748
-38Â°-75Â° Brewing,brewpub,2000 Coastal Highway STE 105,Rehoboth Beach,Delaware,19971,United States,38.7074994,-75.090191
+38°-75° Brewing,brewpub,2000 Coastal Highway STE 105,Rehoboth Beach,Delaware,19971,United States,38.7074994,-75.090191
 3cross Fermentation Cooperative,micro,4 Knowlton Ave,Worcester,Massachusetts,01603,United States,42.24364875,-71.83057593
 3Halves Brewing Co,brewpub,110 E Kansas St,Liberty,Missouri,64068-2374,United States,39.2461993,-94.4190247
 3rd Degree Brewhouse,micro,1625 N Main St,Fuquay Varina,North Carolina,27526,United States,35.5914556,-78.794223
@@ -131,7 +131,7 @@ name,brewery_type,address_1,city,state_province,postal_code,country,latitude,lon
 4 Stitch Brewing Co - Brewery & Taproom,taproom,16709 9th Ave SE,Mill Creek,Washington,98012-6309,United States,47.84671432549,-122.21991381534
 4 Stitch Brewing Co - Taproom & Kitchen,brewpub,5817 238th St SE Ste 3,Woodinville,Washington,98072-8669,United States,47.782473284418,-122.15488674812
 400 North Brewing,planning,,Sugarhill,Georgia,30518-7916,United States,,
-406 Brewing Company,micro,"101 E Oak St,Â Ste D",Bozeman,Montana,59715-2967,United States,,
+406 Brewing Company,micro,"101 E Oak St, Ste D",Bozeman,Montana,59715-2967,United States,,
 411 Broadway Ales,planning,,Fresno,California,93721-2801,United States,36.7295295,-119.7088613
 412 Brews,brewpub,706 Island Ave,Mc Kees Rocks,Pennsylvania,15136-3287,United States,,
 42 North Brewing Company,brewpub,25 Pine St,East Aurora,New York,14052-1827,United States,42.769311,-78.607989
@@ -225,7 +225,7 @@ Abbaye Chimay,micro,294 Rue du Rond-Point,Chimay,Région wallonne,6464,Belgium,4
 Abbaye d'Orval,micro,1 Orval,Florenville,Région wallonne,6823,Belgium,49.63843,5.349561
 Abbaye de Brogne,micro,3 Place de Brogne,Mettet,Région wallonne,5640,Belgium,50.3456848,4.741608
 Abbaye des Rocs,micro,37 Chaussée Brunehault,Honnelles,Région wallonne,7387,Belgium,50.369676,3.727111
-Abbaye St. RÃ©my,micro,,Rochefort,Wallonia,5580,Belgium,50.178573,5.220228
+Abbaye St. Rémy,micro,,Rochefort,Wallonia,5580,Belgium,50.178573,5.220228
 Abbey Brewing Co,contract,1115 16th St,Miami Beach,Florida,33139-2441,United States,25.7890381,-80.1402943
 "Abbey Brewing Company, LLC",micro,215 W. Alicante Rd,Santa Fe,New Mexico,87505,United States,35.66555826,-105.9465207
 Abbey St. Sixtus,micro,12 Donkerstraat,Vleteren,Vlaanderen,8640,Belgium,50.895336,2.720948
@@ -286,7 +286,7 @@ Afterthought Brewing Company,micro,844 N Ridge Ave,Lombard,Illinois,60148-1215,U
 Against the Grain Beer Garden,planning,,Louisville,Kentucky,40217,United States,,
 Against the Grain Brewery,micro,401 E Main St,Louisville,Kentucky,40202-1110,United States,38.2554568,-85.7440377
 Against the Grain Production Facility,micro,1800 Northwestern Pkwy,Louisville,Kentucky,40203,United States,38.2658758,-85.7767241
-Agar’s Brewery,micro,Unit 12,Centurion,Gauteng,0157,South Africa,-25.9189,28.1256
+Agar's Brewery,micro,Unit 12,Centurion,Gauteng,0157,South Africa,-25.9189,28.1256
 Agonic Brewing Company LLC,planning,,Rice Lake,Wisconsin,54868-8786,United States,45.502184424793,-91.732284415498
 "Agrarian Ales, LLC",closed,31115 W Crossroads Ln,Eugene,Oregon,97408-9220,United States,44.18922784,-123.1277712
 Ahnapee Brewery,micro,N9153 Cherry Tree Rd Apt 4,Algoma,Wisconsin,54201-9501,United States,44.607613658885,-87.436453944363
@@ -481,14 +481,14 @@ Angry Troll Brewing / 222 Public House,brewpub,222 E Main St Ste U2,Elkin,North 
 Anheuser-Busch InBev,large,1 Busch Pl,Saint Louis,Missouri,63118-1849,United States,38.5954536,-90.2118998
 Anheuser-Busch Inc - Fort Collins,large,2351 Busch Dr,Fort Collins,Colorado,80524-9400,United States,40.61817811,-105.0019686
 Anheuser-Busch Inc - Los Angeles,large,15800 Roscoe Blvd,Van Nuys,California,91406-1350,United States,34.2213918,-118.4721072
-Anheuser-Busch Inc â Baldwinsville,large,2885 Belgium Rd,Baldwinsville,New York,13027-2706,United States,43.16510925,-76.31159343
-Anheuser-Busch Inc â Cartersville,large,100 Busch Dr NE,Cartersville,Georgia,30121-7217,United States,,
-Anheuser-Busch Inc â Columbus,large,700 Schrock Rd,Columbus,Ohio,43229-1123,United States,40.102197,-82.99307
-Anheuser-Busch Inc â Fairfield,large,3101 Busch Dr,Fairfield,California,94534-9726,United States,38.2365838,-122.0902992
-Anheuser-Busch Inc â Houston,large,775 Gellhorn Dr,Houston,Texas,77029-1496,United States,29.771858,-95.27130674
-Anheuser-Busch Inc â Jacksonville,large,111 Busch Dr,Jacksonville,Florida,32218-5546,United States,30.4319552,-81.6481156
-Anheuser-Busch Inc â Merrimack,large,221 Daniel Webster Hwy,Merrimack,New Hampshire,03054-4807,United States,42.8253635,-71.48598162
-Anheuser-Busch Inc â Newark,large,200 US Highway 1,Newark,New Jersey,07114-2298,United States,,
+Anheuser-Busch Inc – Baldwinsville,large,2885 Belgium Rd,Baldwinsville,New York,13027-2706,United States,43.16510925,-76.31159343
+Anheuser-Busch Inc – Cartersville,large,100 Busch Dr NE,Cartersville,Georgia,30121-7217,United States,,
+Anheuser-Busch Inc – Columbus,large,700 Schrock Rd,Columbus,Ohio,43229-1123,United States,40.102197,-82.99307
+Anheuser-Busch Inc – Fairfield,large,3101 Busch Dr,Fairfield,California,94534-9726,United States,38.2365838,-122.0902992
+Anheuser-Busch Inc – Houston,large,775 Gellhorn Dr,Houston,Texas,77029-1496,United States,29.771858,-95.27130674
+Anheuser-Busch Inc – Jacksonville,large,111 Busch Dr,Jacksonville,Florida,32218-5546,United States,30.4319552,-81.6481156
+Anheuser-Busch Inc – Merrimack,large,221 Daniel Webster Hwy,Merrimack,New Hampshire,03054-4807,United States,42.8253635,-71.48598162
+Anheuser-Busch Inc – Newark,large,200 US Highway 1,Newark,New Jersey,07114-2298,United States,,
 Anheuser-Busch Inc ̢���� Williamsburg,large,7801 Pocahontas Trl,Williamsburg,Virginia,23185-6302,United States,37.2652889,-76.6798988
 Animas Brewing Co,brewpub,1560 E 2nd Ave,Durango,Colorado,81301-5186,United States,37.27997215,-107.8769912
 Ankerbräu,brewpub,6A Steinbächlein,Steinach,Thüringen,96523,Germany,50.4329505,11.1549309
@@ -657,7 +657,7 @@ B and J's Handcrafted Texas Ales,micro,6335 S Padre Island Dr,Corpus Christi,Tex
 B Chord Brewing Company,micro,34266 Williams Gap Rd,Round Hill,Virginia,20141-2100,United States,,
 B Studio,micro,6 Lever Street,Napier,Hawke's Bay Region,4110,New Zealand,-39.4836689,176.8953817
 B-52 Brewing,micro,12470 Milroy Ln,Conroe,Texas,77304-5160,United States,,
-B-CS  Zoigl Brewery,micro,Â 211-C W William Joel Bryan Pkwy,Bryan,Texas,77803-3225,United States,,
+B-CS  Zoigl Brewery,micro, 211-C W William Joel Bryan Pkwy,Bryan,Texas,77803-3225,United States,,
 B.C. Brewery,micro,10950 Gilroy Rd Ste F,Hunt Valley,Maryland,21031-1327,United States,39.4827911,-76.6623019
 B.Effect,contract,60 Anderson Road,Wānaka,Otago Region,9305,New Zealand,-44.6887225,169.1443469
 B.O.B's Brewery,brewpub,20 Monroe Ave NW,Grand Rapids,Michigan,49503-6208,United States,42.9638257,-85.67248446
@@ -881,7 +881,7 @@ Barrels & Bottles Brewery,brewpub,600 12th St Ste 160,Golden,Colorado,80401-6145
 Barrie Brewing Company,planning,,Gainesville,Florida,32607-4807,United States,,
 Barrier Brewing Co,micro,3001 New St Ste A2,Oceanside,New York,11572-2747,United States,,
 Barrington Brewery and Restaurant,brewpub,420 Stockbridge Rd Ste 4,Great Barrington,Massachusetts,01230-9512,United States,,
-Barrington’s Craft Brewery,brewpub,Barrington's,Plettenberg Bay,Western Cape,6600,South Africa,-34.0521,23.3564
+Barrington's Craft Brewery,brewpub,Barrington's,Plettenberg Bay,Western Cape,6600,South Africa,-34.0521,23.3564
 Barrio Brewing Co,micro,800 E 16th St,Tucson,Arizona,85719-6603,United States,32.214613,-110.959665
 Barrow Brewing Company,micro,108 Royal St,Salado,Texas,76571,United States,30.94295989,-97.53703133
 Barsideous Brewing Co,brewpub,644 S Main St,Lebanon,Oregon,97355-3337,United States,44.5247777,-122.9070824
@@ -911,7 +911,7 @@ Bathtub Row Brewing Co-op,micro,163 Central Park Sq,Los Alamos,New Mexico,87544-
 Battered Boar Brewing Co,micro,14700 Metro Plaza Blvd Ste F,Edmond,Oklahoma,73013-1991,United States,35.619996,-97.50849
 Battery Island Brewing Company,nano,101A N Washington St,Havre de Grace,Maryland,21078,United States,39.5479443,-76.0896568
 Battery Steele Brewing,micro,1 Industrial Way Ste 12,Portland,Maine,04103-1072,United States,,
-Battle BornÂ® Beer,contract,100 N Arlington Ave Ste 100,Reno,Nevada,89501-1233,United States,,
+Battle Born® Beer,contract,100 N Arlington Ave Ste 100,Reno,Nevada,89501-1233,United States,,
 Battle Brewery,micro,North Trade Road,Battle,East Sussex,TN33 0HN,England,50.916346,0.457425
 Battle Hill Brewing Company,micro,4 Charles Street,Fort Ann,New York,12827,United States,43.41676935,-73.48739346
 Battle Mountain Brewing Co,brewpub,330 Third St,Castle Rock,Colorado,80104,United States,39.3721413,-104.859545
@@ -1335,7 +1335,7 @@ BJs Restaurant & Brewery - Reno,brewpub,13999 S Virginia St,Reno,Nevada,89511-89
 BJs Restaurant & Brewery - West Covina,brewpub,2917 E Eastland Ctr Dr,West Covina,California,91791-1603,United States,34.07298952,-117.8867988
 BJs Restauraunt & Brewhouse,brewpub,4502 S. Steele St. Suite 1500,Tacoma,Washington,98409-7277,United States,47.214875,-122.467515
 BKS Artisan Ales,micro,633 E 63rd St #120,Kansas City,Missouri,64110,United States,39.010093,-94.493961
-BlÃ¼ Dragonfly Brewing,brewpub,301 E 9th St # C,Cimarron,New Mexico,87714-4027,United States,36.511427,-104.914428
+Blü Dragonfly Brewing,brewpub,301 E 9th St # C,Cimarron,New Mexico,87714-4027,United States,36.511427,-104.914428
 Black Acre Brewing Co,brewpub,5632 E Washington St,Indianapolis,Indiana,46219-6428,United States,39.7668669,-86.1452662
 Black Beak Brewing,planning,,Denver,Colorado,80237-1907,United States,39.7391428,-104.984696
 Black Bear Brewery,micro,19 Mill St Ste 4,Orono,Maine,04473-4095,United States,,
@@ -1406,7 +1406,7 @@ Blackhorse Brewery,planning,,Alcoa,Tennessee,37701,United States,,
 Blackhorse Pub and Brewery,brewpub,132 Franklin St,Clarksville,Tennessee,37040-3438,United States,36.52735085,-87.3588994
 Blackhorse Pub and Brewery -  Knoxville,brewpub,4429 Kingston Pike,Knoxville,Tennessee,37919-5252,United States,35.9259722,-84.0443634
 Blacklist Artisan Ales,micro,120 E Superior St,Duluth,Minnesota,55802-2116,United States,46.7882669,-92.09596598
-Blackman’s Brewery,micro,8 Lewalan Street,Grovedale,VIC,3216,Australia,-38.1971588,144.3453063
+Blackman's Brewery,micro,8 Lewalan Street,Grovedale,VIC,3216,Australia,-38.1971588,144.3453063
 Blackmans Brewery,micro,8 Lewalan Street,Grovedale,VIC,3216,Australia,-38.1971588,144.3453063
 BlackRock Brewers,micro,1664 S Research Loop Ste 200,Tucson,Arizona,85710-6767,United States,32.20160831,-110.8217786
 Blackrocks Brewery,micro,424 N 3rd St,Marquette,Michigan,49855-3555,United States,46.5464589,-87.39462133
@@ -2184,7 +2184,7 @@ Bub,brewpub,14 Marktplatz,Leinburg,Bayern,91227,Germany,49.4501327,11.3090901
 Bubba Brew's Brewing Company,micro,8091 Airport Rd,Bonnerdale,Arkansas,71933-6648,United States,,
 Bubes Brewery,brewpub,102 N Market St,Mount Joy,Pennsylvania,17552-1306,United States,40.11180762,-76.50290152
 Buchanan Craft LLC,planning,,Chicago,Illinois,60647-9735,United States,,
-Buchanan’s Brewery,micro,Devon Valley Road,Stellenbosch,Western Cape,7600,South Africa,-33.9178,18.8153
+Buchanan's Brewery,micro,Devon Valley Road,Stellenbosch,Western Cape,7600,South Africa,-33.9178,18.8153
 Bucher Bräu,brewpub,5 Elsenthaler Straße,Grafenau,Bayern,94481,Germany,48.8543494,13.392805
 Büchner,brewpub,76 Heilmfurt,Malgersdorf,Bayern,84333,Germany,48.527147,12.7359383
 Buck Bald Brewing Corporation,planning,,Blue Ridge,Georgia,30513,United States,,
@@ -2192,7 +2192,7 @@ Buck Hill Brewery and Restaurant,brewpub,45 Route 94,Blairstown,New Jersey,07825
 Buck's Brewing Co,micro,993 Mount Vernon Rd,Newark,Ohio,43055-4728,United States,40.08367829,-82.41752143
 Bucket Brewery,micro,2 Prince Street,South Kempsey,NSW,2440,Australia,-31.0878355,152.8317525
 Bucket Brigade Brewery,micro,205 N Main St,Cape May Court House,New Jersey,08210-2121,United States,39.086856,-74.81946353
-Bucketty’s Brewing,micro,26 Orchard Road,Brookvale,NSW,2100,Australia,-33.7657252,151.2733211
+Bucketty's Brewing,micro,26 Orchard Road,Brookvale,NSW,2100,Australia,-33.7657252,151.2733211
 Buckeye Beer Engine,brewpub,15315 Madison Ave,Lakewood,Ohio,44107-4020,United States,41.477245,-81.803918
 Buckeye Lake Brewery,micro,5176 Walnut Rd,Buckeye Lake,Ohio,43008,United States,39.928559,-82.488973
 Buckhorn Brewers LLC,micro,4229 W Eisenhower Blvd,Loveland,Colorado,80537-9202,United States,40.4058904,-105.0925735
@@ -2255,7 +2255,7 @@ Bürgerbräu Wächtersbach,closed,8 Schloßstraße,Wächtersbach,Hessen,63607,Ge
 Bürgerliches Brauhaus,brewpub,99 Hauptstraße,Wiesen,Bayern,63831,Germany,50.1133555,9.3633061
 Bürgerstüble,brewpub,2 Anwandstraße,Sulz am Neckar,Baden-Württemberg,72172,Germany,48.3295,8.61486
 Burggraf Bräu,closed,231 Darmstädter Straße,Bensheim,Hessen,64625,Germany,49.7055401,8.6185745
-Burghâers Brewing,micro,22410 Perry Hwy Ste 410E,Zelienople,Pennsylvania,16063-2935,United States,,
+Burgh'ers Brewing,micro,22410 Perry Hwy Ste 410E,Zelienople,Pennsylvania,16063-2935,United States,,
 Burghauser Brauwerkstatt,closed,80 Piracher Straße,Burghausen,Bayern,84489,Germany,48.1607727,12.8068642
 Burgholz Bräu,closed,2 Burgholz,Hebertsfelden,Bayern,84332,Germany,48.450879,12.8229495
 Burgundian Brewing Co.,micro,4725 Lipan St,Denver,Colorado,80211-2334,United States,39.7825168,-105.0024095
@@ -2292,7 +2292,7 @@ Burwood Brewing Company,micro,1120 E St,Walla Walla,Washington,99362-9505,United
 Bury Me Brewing Company,micro,4224 Cleveland Ave Ste 7,Fort Myers,Florida,33901-9051,United States,,
 Burzel Bräu,brewpub,12 Beerenweg,Hamburg,Hamburg,22761,Germany,53.5655086,9.9226025
 Bush Shack Brewery,micro,791 Ferguson Road,Ferguson,WA,6236,Australia,-33.4162107,115.8308723
-Bushy’s Brewery Ltd,micro,Mount Murray,Braddan,Middle,IM4 1JE,Isle of Man,54.136102865269,-4.5579383193985
+Bushy's Brewery Ltd,micro,Mount Murray,Braddan,Middle,IM4 1JE,Isle of Man,54.136102865269,-4.5579383193985
 Busted Knuckle Brewery,micro,213 11th St W,Williston,North Dakota,58801-5125,United States,48.15635372,-103.6271886
 Busted Knuckle Brewery,micro,303 1st Ave S,Glasgow,Montana,59230-2308,United States,48.1938472,-106.6335464
 Busted Sandal Brewing Company,micro,7114 Oaklawn Dr,San Antonio,Texas,78229-3021,United States,,
@@ -2407,7 +2407,7 @@ Capitol City Brewing Co,contract,2 Massachusetts Ave NE,Washington,District of C
 Capitol Creek Brewery,brewpub,371 Market St,Basalt,Colorado,81621-7409,United States,,
 Capoen,micro,21 Indiestraat,Antwerpen,Vlaanderen,2000,Belgium,51.234776,4.4107791
 Capstan Bar Brewing Company,micro,2036 Exploration Way,Hampton,Virginia,23666-6260,United States,37.082339,-76.3994756
-Captain Bligh’s Brewery/Distillery,micro,64 Warwick Street,Hobart,TAS,7000,Australia,-42.877475,147.320166
+Captain Bligh's Brewery/Distillery,micro,64 Warwick Street,Hobart,TAS,7000,Australia,-42.877475,147.320166
 Captain Fatty's,micro,6483 Calle Real Ste D,Goleta,California,93117-1541,United States,34.4394769,-119.8524005
 Captain Lawrence Brewing Co,regional,444 Saw Mill River Rd Ste 100,Elmsford,New York,10523-1031,United States,41.03486,-73.839113
 Caracara Brewing Company,micro,100 E Market St,Lockhart,Texas,78644-2747,United States,29.883798,-97.672065
@@ -2590,7 +2590,7 @@ Choteau Creek Brewing Company,micro,40228 296th St,Wagner,South Dakota,57380-696
 Christian Moerlein Brewing Co,regional,1621 Moore St,Cincinnati,Ohio,45202-6438,United States,39.11322509,-84.51533432
 Christoph-Bräu,brewpub,3 Alois-Degler-Straße,Gaggenau,Baden-Württemberg,76571,Germany,48.8045115,8.3164569
 Chubby Squirrel Brewing Company,brewpub,10382 Willard Way,Fairfax,Virginia,22030-2508,United States,38.84818941,-77.30201557
-Chuck and Son’s Brewing Co.,micro,1-7 Unwins Bridge Road,Saint Peters,NSW,2044,Australia,-33.9094685,151.1749563
+Chuck and Son's Brewing Co.,micro,1-7 Unwins Bridge Road,Saint Peters,NSW,2044,Australia,-33.9094685,151.1749563
 ChuckAlek Independent Brewers,closed,2330 Main St Ste C,Ramona,California,92065-2539,United States,33.02777389,-116.8892394
 Chuckanut - South Nut,micro,11937 Higgins Airport Way,Burlington,Washington,98233-5312,United States,48.473804,-122.411968
 Chuckanut Brewery - North Nut,closed,601 W Holly St,Bellingham,Washington,98225-3920,United States,48.7533261,-122.4851164
@@ -3020,7 +3020,7 @@ DAB,brewpub,20 Steigerstraße,Dortmund,Nordrhein-Westfalen,44145,Germany,51.5296
 dAchouffe,micro,32 Achouffe,Houffalize,Région wallonne,6666,Belgium,50.1509897,5.7458087
 Dachsbräu,brewpub,5 Murnauer Straße,Weilheim in Oberbayern,Bayern,82362,Germany,47.836442,11.1428236
 Dachsenfranz Biermanufaktur,brewpub,1 Hoffenheimer Straße,Zuzenhausen,Baden-Württemberg,74939,Germany,49.2957284,8.8243279
-Dad & Dave’s Brewing,micro,45 Mitchell Road,Brookvale,NSW,2100,Australia,-33.7660591,151.2743232
+Dad & Dave's Brewing,micro,45 Mitchell Road,Brookvale,NSW,2100,Australia,-33.7660591,151.2743232
 Dad & Dudes Breweria,brewpub,6730 S Cornerstar Way Ste D,Aurora,Colorado,80016-1571,United States,,
 Daft Badger Brewing,brewpub,1710 N 2nd St,Coeur D Alene,Idaho,83814-3403,United States,47.692323,-116.783116
 Dageraad Brewing,micro,"#114, 3191 Thunderbird Crescent",Burnaby,British Columbia,V5A 3G1,Canada,49.2560299,-122.9217409
@@ -3100,7 +3100,7 @@ De Kustbrouwerij Middelkerke,micro,38 De Middelpolder,Middelkerke,Vlaanderen,843
 De La Chasse Royale,micro,80 Boulevard Anspach,Bruxelles,Brussels Capital Region,1000,Belgium,50.8482035,4.3499006
 de la Semois,micro,25 Rue de Chassepierre,Florenville,Région wallonne,6820,Belgium,49.723076,5.256257
 De La Senne,micro,19 Anna Bochdreef,Brussel,Brussels Capital Region,1000,Belgium,50.8677251,4.3487361
-De La Vegaâs Pecan Grill and Brewery,contract,500 S Telshor Blvd,Las Cruces,New Mexico,88011-4613,United States,32.3019659,-106.7374222
+De La Vega's Pecan Grill and Brewery,contract,500 S Telshor Blvd,Las Cruces,New Mexico,88011-4613,United States,32.3019659,-106.7374222
 De Laatste Drinker,micro,3 Goudenleeuwplein,Gent,Vlaanderen,9000,Belgium,51.0544141,3.7234972
 De Landtsheer,micro,181 Mandekensstraat,Buggenhout,Vlaanderen,9255,Belgium,51.023417,4.157952
 de Lautenne,micro,19 Anna Bochdreef,Brussel,Brussels Capital Region,1000,Belgium,50.8677251,4.3487361
@@ -3252,9 +3252,9 @@ Devil Wind Brewing LLC,micro,130 S Detroit St,Xenia,Ohio,45385,United States,39.
 Devil's Canyon Brewing Company,micro,935 Washington St,San Carlos,California,94070-5316,United States,37.49896576,-122.2445413
 Devil's Club Brewing,brewpub,100 N Franklin St,Juneau,Alaska,99801-1223,United States,58.301309,-134.406956
 Devil's Creek Brewery,micro,1 Powell Ln,Collingswood,New Jersey,08108-1945,United States,39.9169234,-75.0712461
-Devil’s Hollow Brewery,micro,,Dubbo,NSW,2830,Australia,-32.261173,148.6533563
+Devil's Hollow Brewery,micro,,Dubbo,NSW,2830,Australia,-32.261173,148.6533563
 Devil's Kettle Brewing,micro,97 Columbus Rd,Athens,Ohio,45701-1313,United States,39.34871425,-82.09543176
-Devil’s Peak Brewing Company,brewpub,95 Durham Avenue,Cape Town,Western Cape,7925,South Africa,-33.9348,18.4595
+Devil's Peak Brewing Company,brewpub,95 Durham Avenue,Cape Town,Western Cape,7925,South Africa,-33.9348,18.4595
 Devil's Potion Brewing Company LLC,planning,,Escondido,California,92026-3187,United States,33.1216751,-117.0814849
 Devil's Purse Brewing Co,micro,120 Great Western Rd,South Dennis,Massachusetts,02660-3715,United States,41.6885379,-70.1416854
 Devil's Trumpet Brewing Co,micro,8250 Utah St,Merrillville,Indiana,46410-6578,United States,,
@@ -3941,7 +3941,7 @@ Findler,brewpub,31 Sachsenkamer Straße,Greiling,Bayern,83677,Germany,47.7681094
 Fine Creek Brewing Company,brewpub,2425 Robert E Lee Rd,Powhatan,Virginia,23139-4411,United States,37.59794,-77.81761305
 Finger Lakes Beer Co,micro,8462 State Route 54,Hammondsport,New York,14840-9795,United States,,
 Finkel & Garf Brewing Co.,micro,5455 Spine Rd Ste A,Boulder,Colorado,80301-3364,United States,,
-Finlay’s Kalbarri,micro,13 Magee Crescent,Kalbarri,WA,6536,Australia,-27.713917,114.165445
+Finlay's Kalbarri,micro,13 Magee Crescent,Kalbarri,WA,6536,Australia,-27.713917,114.165445
 Finne Brauerei,brewpub,20 Am Mittelhafen,Münster,Nordrhein-Westfalen,48155,Germany,51.9511209,7.6424727
 FINNEGANS Brew Co,micro,817 5th Ave So,Minneapolis,Minnesota,55404,United States,,
 Fins Big Oyster Brewery,brewpub,19269 Coastal Hwy,Rehoboth Beach,Delaware,19971-6113,United States,38.7074994,-75.090191
@@ -4185,7 +4185,7 @@ Franklin's Brewing Co,taproom,Highfield Farm,Lewes,East Sussex,BN8 5AR,England,5
 Franklins General Store,micro,5123 Baltimore Ave,Hyattsville,Maryland,20781-2042,United States,38.95194399,-76.94074114
 Franschhoek Beer Company,brewpub,R45,Franschhoek,Western Cape,7690,South Africa,-33.9515,19.0682
 Franz,brewpub,4 Rauentaler Straße,Rastatt,Baden-Württemberg,76437,Germany,48.8571232,8.2090975
-Fraser’s Folly,micro,Black Oystercatcher Wines,Bredasdorp,Western Cape,7280,South Africa,-34.5772,20.1068
+Fraser's Folly,micro,Black Oystercatcher Wines,Bredasdorp,Western Cape,7280,South Africa,-34.5772,20.1068
 freak folk bier,micro,28 Stowe St,Waterbury,Vermont,05676,United States,,
 Freak'N Brewing Company,micro,9299 W Olive Ave Ste 513,Peoria,Arizona,85345-8385,United States,,
 Freddy's Brewpub,brewpub,124-948 McCurdy Rd,Kelowna,British Columbia,V1X2P7,Canada,49.9029574,-119.4054164
@@ -4215,7 +4215,7 @@ Frenzy Brewing Company,micro,15 S Broadway,Edmond,Oklahoma,73003-6250,United Sta
 Freshwater Brewing Co.,micro,4 Powells Road,Brookvale,NSW,2100,Australia,-33.7662517,151.2735033
 Fretboard Brewing Company,micro,5800 Creek Rd,Blue Ash,Ohio,45242-4010,United States,39.260924,-84.390108
 Frey's Brewing Company,micro,8601 Mapleville Rd,Mount Airy,Maryland,21771-9705,United States,39.4706993,-77.2034606
-Friar’s Habit Craft Brewery,brewpub,141 Dr Van der Merwe Drive,Pretoria,Gauteng,0182,South Africa,-25.6811,28.2435
+Friar's Habit Craft Brewery,brewpub,141 Dr Van der Merwe Drive,Pretoria,Gauteng,0182,South Africa,-25.6811,28.2435
 Friars' Brewhouse,micro,84 Main St,Bucksport,Maine,04416,United States,44.57202344,-68.79558414
 Friday Harbor Brewing,closed,665B Mullis St,Friday Harbor,Washington,98250-7902,United States,48.53026803,-123.0223327
 Friedel,brewpub,1 Höchstadter Straße,Höchstadt an der Aisch,Bayern,91315,Germany,49.7607521,10.8937851
@@ -4413,7 +4413,7 @@ Giant Jones Brewing LLC,micro,931 E Main St Suite 9,Madison,Wisconsin,53703,Unit
 Gibb's Hundred Brewing Company,micro,504 State St,Greensboro,North Carolina,27405,United States,36.101006,-79.783217
 Gibrit,micro,12 Antwerpsesteenweg,Temse,Vlaanderen,9140,Belgium,51.1127089,4.1760797
 Gideon's Brewing Company,micro,107 N 5th St,Bismarck,North Dakota,58501-4026,United States,46.80607237,-100.7844514
-GiesenbrÃ¤u Bier Co LLC,micro,1306 1st St NE,New Prague,Minnesota,56071-2451,United States,44.5447992,-93.5756181
+Giesenbräu Bier Co LLC,micro,1306 1st St NE,New Prague,Minnesota,56071-2451,United States,44.5447992,-93.5756181
 Giesinger Bräu,brewpub,2 Martin-Luther-Straße,München,Bayern,81539,Germany,48.1155998,11.576744
 Gig Harbor Brewing,closed,3120 South Tacoma Way,Tacoma,Washington,98409-4717,United States,47.22805896,-122.4772721
 Gigantic Brewing Co,micro,5224 SE 26th Ave,Portland,Oregon,97202-4627,United States,45.48500105,-122.6392092
@@ -4425,7 +4425,7 @@ Gilded Otter Brewing Co,brewpub,3 Main St,New Paltz,New York,12561-1742,United S
 Gilgamesh Brewing Co,micro,2065 Madrona Ave SE,Salem,Oregon,97302-1010,United States,44.90504576,-123.0191178
 Gillette Brewing Company,closed,301 S Gillette Ave,Gillette,Wyoming,82716-3705,United States,44.29203825,-105.5036145
 Gilman Brewing Company,micro,912 Gilman St,Berkeley,California,94710-1424,United States,37.879466,-122.2998747
-Gilroy’s Brewery,brewpub,R114 & N14,Muldersdrift,Gauteng,1747,South Africa,-26.0142,27.9102
+Gilroy's Brewery,brewpub,R114 & N14,Muldersdrift,Gauteng,1747,South Africa,-26.0142,27.9102
 Gino's Brewing Company,brewpub,500 N La Salle Dr,Chicago,Illinois,60654-7109,United States,,
 Girdwood Brewing Company,micro,2700 Alyeska Highway,Girdwood,Alaska,99587-0058,United States,60.9578421,-149.1540907
 Gizmo Brew Works,micro,5907 Triangle Dr,Raleigh,North Carolina,27617-4742,United States,35.89611719,-78.74513578
@@ -4751,7 +4751,7 @@ Grillin & Chillin Alehouse,brewpub,401 McCray St # B24,Hollister,California,9502
 Grimm Artisanal Ales,micro,990 Metropolitan Ave,Brooklyn,New York,11211-2607,United States,40.7142757,-73.93651911
 "Grimm Brothers Brewhouse, LLC",micro,623 Denver Ave,Loveland,Colorado,80537-5127,United States,,
 Grind City Brewing Company,micro,76 Waterworks Ave,Memphis,Tennessee,38107-1806,United States,35.1697202,-90.0434951
-Grinderâs High Noon Brewery,brewpub,206 Choctaw St,Leavenworth,Kansas,66048-2821,United States,39.31683651,-94.91052465
+Grinder's High Noon Brewery,brewpub,206 Choctaw St,Leavenworth,Kansas,66048-2821,United States,39.31683651,-94.91052465
 Grindhaus Brew Lab,micro,1650 N Hercules Ave Ste I,Clearwater,Florida,33765-1969,United States,,
 Grist Brewing Company,closed,9150 Commerce Center Cir Ste 300,Highlands Ranch,Colorado,80129-1563,United States,,
 Grist House Craft Brewery,micro,10 Sherman St,Pittsburgh,Pennsylvania,15209-2728,United States,,
@@ -4967,7 +4967,7 @@ Haw River Farmhouse Ales,micro,1713 Saxapahaw-Bethlehem Church Rd,Saxapahaw,Nort
 Hawaii Nui Brewing,closed,275 E Kawili St,Hilo,Hawaii,96720-5074,United States,19.70587596,-155.0697885
 Hawk Moth Brewing Co,planning,,rogers,Arkansas,72756,United States,36.3320197,-94.1185366
 Hawke's Bay Independent,micro,22 Lee Road,Napier,Hawke's Bay Region,4112,New Zealand,-39.5351475,176.8500147
-Hawke’s Brewing Co.,micro,8-12 Sydney Street,Marrickville,NSW,2204,Australia,-33.9119187,151.1639375
+Hawke's Brewing Co.,micro,8-12 Sydney Street,Marrickville,NSW,2204,Australia,-33.9119187,151.1639375
 Hawkers,micro,167 Henty Street,Reservoir,VIC,3073,Australia,-37.718126,144.984805
 Hawkers Beer,micro,167 Henty Street,Reservoir,VIC,3073,Australia,-37.718126,144.984805
 HawkPeak Brewing Company DBA Grand Haven Brew House,brewpub,101 Washington Ave # 2B,Grand Haven,Michigan,49417-1302,United States,,
@@ -5042,7 +5042,7 @@ Helmsman Alehouse - Newport Beach Brewing Co,micro,2920 Newport Blvd Frnt,Newpor
 Helton Brewing Company,brewpub,2144 E Indian School Rd,Phoenix,Arizona,85016-6130,United States,33.4946865,-111.9805956
 Hembach,closed,4 Siemensstraße,Rednitzhembach,Bayern,91126,Germany,49.3128237,11.0490865
 Hemel & Aarde Brewery,brewpub,Hemel en Aarde Village,Hermanus,Western Cape,7200,South Africa,-34.3986,19.1918
-Hemingway’s Brewery,micro,Wharf Street,Cairns City,QLD,4870,Australia,-16.9255244,145.7804334
+Hemingway's Brewery,micro,Wharf Street,Cairns City,QLD,4870,Australia,-16.9255244,145.7804334
 Hemisphere Brewing Co,micro,2015 Kristy Ln,Rockwall,Texas,75032-6242,United States,32.91151877,-96.44026588
 Hemlock State Brewing Company,micro,23601 56th Ave W Ste 400,Lake Forest Park,Washington,98043-5277,United States,47.78517681,-122.3081169
 Henderson Brewing Company,planning,,Henderson,Kentucky,42420-3226,United States,,
@@ -5768,7 +5768,7 @@ Jurnee Brewing Company,planning,,Chantilly,Virginia,20152-2075,United States,,
 K Point Brewing,brewpub,507 Main St,Eau Claire,Wisconsin,54701-3736,United States,44.81114834,-91.49634405
 K-Oz Restaurant Brewery,brewpub,121 7th St,San Francisco,California,94103-2835,United States,37.7786408,-122.409904
 K2 Brothers Brewing,brewpub,1221 Empire Blvd,Rochester,New York,14609-5946,United States,43.17664,-77.549992
-KÃ¼nstler Brewing,brewpub,302 E Lachapelle,San Antonio,Texas,78204-1945,United States,29.40503026,-98.5000988
+Künstler Brewing,brewpub,302 E Lachapelle,San Antonio,Texas,78204-1945,United States,29.40503026,-98.5000988
 Kaapse Brouwers,micro,Nico Koomanskade 1025,Rotterdam,Zuid-Holland,3072 LM,Netherlands,51.9020324,4.4867529
 Kahakka Brewery,micro,Indolantie 15,Kokkola,Central Ostrobothnia,67600,Finland,63.8231,23.1561
 Kaiapoi,closed,77 Hilton Street,Kaiapoi,Canterbury Region,7630,New Zealand,-43.3849164,172.6566132
@@ -6706,7 +6706,7 @@ Maisel,brewpub,9 Hindenburgstraße,Bayreuth,Bayern,95445,Germany,49.94773,11.565
 Maison Leffe,micro,23 Charreau des Capucins,Dinant,Région wallonne,5500,Belgium,50.2569973,4.9107713
 Maize Valley Craft Brewery,brewpub,6193 Edison St NE,Hartville,Ohio,44632-9326,United States,40.95340888,-81.27813638
 Makai Brewing Company,micro,5850 Ocean Hwy W,Ocean Isle Beach,North Carolina,28469-3510,United States,,
-Maker’s Brew,micro,70-72 Wale Street,Cape Town,Western Cape,8001,South Africa,-33.9221,18.4162
+Maker's Brew,micro,70-72 Wale Street,Cape Town,Western Cape,8001,South Africa,-33.9221,18.4162
 Makers Craft Brewery,planning,,Norfolk,Virginia,23504-1905,United States,,
 Maku Brewing,micro,Sarvivälkkeentie 12,Tuusula,Uusimaa,04300,Finland,60.4144,25.0441
 Malai Fort Worth,brewpub,5289 Monahans Ave,Fort Worth,Texas,76109,United States,,
@@ -6840,7 +6840,7 @@ Matilda Bay,micro,336 Maroondah Highway,Healesville,VIC,3777,Australia,-37.65138
 Matilda Bay Brewing Company,large,50 Tope Street,South Melbourne,VIC,3205,Australia,-37.8305483,144.9629367
 Matties,bar,2535 Mountain City Hwy,Elko,Nevada,89801-4496,United States,40.836405,-115.793393
 Maueler Hofbräu,micro,11 Preschlin-Allee,Windeck,Nordrhein-Westfalen,51570,Germany,50.8039271,7.6008138
-Maui Brewing Co - Ka’anapali,brewpub,2525 Ka’anapali Pkwy,Lahaina,Hawaii,96761-1912,United States,20.924051170573,-156.69385011643
+Maui Brewing Co - Ka'anapali,brewpub,2525 Ka'anapali Pkwy,Lahaina,Hawaii,96761-1912,United States,20.924051170573,-156.69385011643
 Maui Brewing Co - Kailua,brewpub,573 Kailua Rd,Kailua,Hawaii,96734-2836,United States,21.394656954415,-157.74105842329
 Maui Brewing Co - Kihei,brewpub,605 Lipoa Pkwy,Kihei,Hawaii,96753-6947,United States,20.74961566,-156.4402411
 Maui Brewing Co - Waikiki,brewpub,2300 Kalakua Ave,Honolulu,Hawaii,96815,United States,21.278349,-157.826624
@@ -7050,7 +7050,7 @@ Mindful Brewing Company,brewpub,3759 Library Rd,Castle Shannon,Pennsylvania,1523
 Mine Shaft Brewing,planning,,Park City,Utah,84098-6724,United States,,
 Miner Brewing Co,brewpub,23845 Highway 385,Hill City,South Dakota,57745-6517,United States,43.94871384,-103.5224249
 Miner Brewing Co,brewpub,"2101 W 41st St, Ste 25",Sioux Falls,South Dakota,57105-6195,United States,43.51296253,-96.75352318
-Miner’s Gold,micro,5 West Street,Beaconsfield,TAS,7270,Australia,-41.2014188,146.8142524
+Miner's Gold,micro,5 West Street,Beaconsfield,TAS,7270,Australia,-41.2014188,146.8142524
 Miners Alley Brewing Company,brewpub,2053 Montgomery St,Oroville,California,95965-4947,United States,39.51414912,-121.5549792
 Minglewood Brewery,brewpub,121 Broadway St,Cape Girardeau,Missouri,63701-7326,United States,37.30583636,-89.51852096
 Minhas Craft Brewery,regional,1208 14th Ave,Monroe,Wisconsin,53566-2055,United States,42.59863051,-89.641509
@@ -7286,7 +7286,7 @@ Murauer Brauerei,large,Raffaltpl. 19,Murau,Steiermark,8850,Austria,47.1110160576
 Murmann,brewpub,6 Coburger Straße,Untersiemau,Bayern,96253,Germany,50.1944248,10.9726705
 Murphy's Brewery (Heineken),large,Leitrim Street,Cork,Cork,T23 VF78,Ireland,51.9037117,-8.4750739
 Murray Towns Brewing Co.,micro,64 Lincoln Causeway,Gateway Island,VIC,3691,Australia,-36.0952095,146.9030905
-Murray’s Craft Brewing Co,micro,3443 Nelson Bay Road,Bobs Farm,NSW,2316,Australia,-32.7799077,151.985364
+Murray's Craft Brewing Co,micro,3443 Nelson Bay Road,Bobs Farm,NSW,2316,Australia,-32.7799077,151.985364
 Museumbrouwerij de Roos,micro,Sint Sebastiaanstraat 4,Hilvarenbeek,Noord-Brabant,5081 ZG,Netherlands,51.4860513,5.13486
 Museums-Brauerei Schmitt,brewpub,2 Schulgasse,Stadtilm,Thüringen,99326,Germany,50.7245182,11.0581291
 Museumsbrauerei,micro,20 Hofer Straße,Kulmbach,Bayern,95326,Germany,50.114645,11.4697406
@@ -7722,7 +7722,7 @@ Old Nation Brewing Company,micro,1500 W. Grand River Ave,Williamston,Michigan,48
 Old Ox Brewery LLC,micro,44652 Guilford Dr Ste 114,Ashburn,Virginia,20147-6006,United States,39.02226368,-77.45608031
 Old Planters Brewing Co.,micro,100 Corning St,Beverly,Massachusetts,01915-3837,United States,42.55499645,-70.86287139
 Old Possum Brewing Company,brewpub,357 Sutton Pl,Santa Rosa,California,95407,United States,38.39097419,-122.7252078
-Old Potter’s Inn & Brewhouse,brewpub,19 Main Road,Greyton,Western Cape,7233,South Africa,-34.0518,19.6087
+Old Potter's Inn & Brewhouse,brewpub,19 Main Road,Greyton,Western Cape,7233,South Africa,-34.0518,19.6087
 Old Rail Brewing Co,closed,639 Girod St,Mandeville,Louisiana,70448-5205,United States,30.35985466,-90.06386106
 Old Redwood Brewing Co,closed,9000 Windsor Rd # A,Windsor,California,95492-9701,United States,38.5475452,-122.8166482
 Old Schoolhouse Brewery,brewpub,155 Riverside Ave,Winthrop,Washington,98862-0577,United States,48.47814625,-120.1866354
@@ -8310,7 +8310,7 @@ Prost Brewing - Highlands Ranch,micro,53 Centennial Blvd,Highlands Ranch,Colorad
 Protector Brewery,micro,8680 Miralani Dr Ste 128,San Diego,California,92126-6392,United States,32.896584,-117.137429
 Providence Brewing Company,micro,10 Sims Ave Unit 110,Providence,Rhode Island,02909-1165,United States,41.8270445,-71.4335016
 Pryes Brewing Company,micro,1401 W River Rd # N,Minneapolis,Minnesota,55411-3436,United States,44.9935022,-93.2763222
-Psycho Suzie’s Brewing,micro,79 Fitzroy Street,Warwick,QLD,4370,Australia,-28.2138441,152.0338675
+Psycho Suzie's Brewing,micro,79 Fitzroy Street,Warwick,QLD,4370,Australia,-28.2138441,152.0338675
 PT's Brewing Co.,micro,3101 N Tenaya Way,Las Vegas,Nevada,89128-0437,United States,36.1739188,-115.2509527
 Pub Craught,planning,,Baton Rouge,Louisiana,70809-2228,United States,,
 PUB DOG Brewing Company,micro,1203 New Windsor Rd,Westminster,Maryland,21158-6704,United States,39.55045197,-77.05229796
@@ -8436,7 +8436,7 @@ Raney Cellars,brewpub,11 Manor Ave,Millersville,Pennsylvania,17551,United States
 Range Brewing,micro,4 Byres Street,Newstead,QLD,4006,Australia,-27.4480845,153.0436885
 Ranger,micro,7 Furness Lane,Wellington,Wellington Region,6011,New Zealand,-41.2941832,174.777348
 Ranger Creek Brewery,micro,4834 Whirlwind Dr Ste 2,San Antonio,Texas,78217-3740,United States,,
-RâNoggin Brewing,micro,6521 120th Ave,Kenosha,Wisconsin,53142,United States,42.57624125,-87.9532178
+R'Noggin Brewing,micro,6521 120th Ave,Kenosha,Wisconsin,53142,United States,42.57624125,-87.9532178
 Ranseler Hofbräu,brewpub,5 Unterstraße,Lorch,Hessen,65391,Germany,50.10101,7.84325
 Rants And Raves Brewery,brewpub,308 N Jackson St,Moscow,Idaho,83843-2065,United States,46.7344955,-117.0027808
 Rapp,brewpub,14 Augsburger Straße,Kutzenhausen,Bayern,86500,Germany,48.3420791,10.6982336
@@ -8475,7 +8475,7 @@ Reaver Beach Brewing Co,micro,1505 Taylor Farm Rd,Virginia Beach,Virginia,23453-
 Rebel Kettle Brewing Company,brewpub,822 E 6th St,Little Rock,Arkansas,72202-2606,United States,34.74211127,-92.26209196
 Rebel Toad Brewing Co,micro,425 William St,Corpus Christi,Texas,78401-2538,United States,27.7946329,-97.3960541
 Rebelle Brewing,planning,,Noblesville,Indiana,46060,United States,,
-Rebellion Brewing (O’Brien Brewing),micro,36 Gregory Street West,Wendouree,VIC,3355,Australia,-37.5408059,143.8109293
+Rebellion Brewing (O'Brien Brewing),micro,36 Gregory Street West,Wendouree,VIC,3355,Australia,-37.5408059,143.8109293
 Reblitz,brewpub,1 Am Mahlberg,Bad Staffelstein,Bayern,96231,Germany,50.1160717,10.9654743
 Recess Brewing,micro,307 N Main St,Edwardsville,Illinois,62025-1615,United States,38.81422443,-89.9590501
 Rechenberger,brewpub,3 An der Schanze,Rechenberg-Bienenmühle,Sachsen,09623,Germany,50.736487,13.5570543
@@ -8721,7 +8721,7 @@ Robens Craft Beer,brewpub,25 Mittelroder Straße,Springe,Niedersachsen,31832,Ger
 Roberts Genuss Bräu,brewpub,6 Kirchplatz,Weißenhorn,Bayern,89264,Germany,48.3042434,10.1588417
 Robertson Brewery,micro,5 Voortrekker Street,Robertson,Western Cape,6705,South Africa,-33.8033,19.8821
 Robin Hood Brewing Co,brewpub,,Bellefonte,Pennsylvania,16823,United States,,
-Robson’s Real Beer,micro,72 Clairwood Road,Durban,KwaZulu-Natal,4051,South Africa,-29.7905,31.0207
+Robson's Real Beer,micro,72 Clairwood Road,Durban,KwaZulu-Natal,4051,South Africa,-29.7905,31.0207
 Roc Brewing Co,brewpub,56 S Union St,Rochester,New York,14607-1839,United States,43.15337067,-77.59793317
 Rochefort,micro,,Rochefort,Wallonia,5580,Belgium,50.1780457,5.2196246
 Rochehaut Brewery,micro,85 Rue du Palis,Bouillon,Région wallonne,6830,Belgium,49.8435459,5.0167893
@@ -9879,7 +9879,7 @@ Störtebeker Braumanufaktur,brewpub,84-85 Greifswalder Chaussee,Stralsund,Meckle
 Storybook Brewing,micro,3121 N El Paso St Ste A,Colorado Springs,Colorado,80907-5469,United States,,
 "Storytellers Brewery and Meet House, LLC",planning,,Corona,California,92880-1798,United States,33.8752945,-117.5664449
 Stöttner,brewpub,9 Marktplatz,Mallersdorf-Pfaffenberg,Bayern,84066,Germany,48.7693104,12.2279254
-Stoudts Brewing Co,micro,Â Rt. 272 2800 North Reading Road,Adamstown,Pennsylvania,19501,United States,,
+Stoudts Brewing Co,micro, Rt. 272 2800 North Reading Road,Adamstown,Pennsylvania,19501,United States,,
 Stoup Brewing - Ballard,micro,1108 NW 52nd St,Seattle,Washington,98107-5129,United States,47.6666399,-122.3711883
 Stoup Brewing - Capitol Hill,brewpub,158 Broadway,Seattle,Washington,98122,United States,,
 Stoup Brewing - Kenmore,taproom,6704 NE 181st St,Kenmore,Washington,98028,United States,,
@@ -10215,7 +10215,7 @@ The Brewers of Nye Hill Farm,micro,250 Middletown Rd,Roxbury,New Hampshire,03431
 The Brewery & Two Goats Deli,brewpub,23 Hudson Street,Nieu-Bethesda,Eastern Cape,6286,South Africa,-31.8679,24.5544
 The Brewery At Bacchus,brewpub,4 S Chestnut St,New Paltz,New York,12561-1902,United States,41.7472558,-74.0867508
 The Brewery At Hershey,micro,598 Schoolhouse Rd,Middletown,Pennsylvania,17057-4029,United States,,
-"The Brewery BÃ¶ser Geist Brewing Co., LLC",micro,1250 Simon Blvd Unit K100,Easton,Pennsylvania,18042-1474,United States,,
+"The Brewery Böser Geist Brewing Co., LLC",micro,1250 Simon Blvd Unit K100,Easton,Pennsylvania,18042-1474,United States,,
 The Brewery LBK,brewpub,1204 Broadway #104,Lubbock,Texas,79401,United States,,
 The Brewery of Broken Dreams,micro,8319 Pleasant Valley Rd,Hammondsport,New York,14840-9549,United States,,
 The Brewhouse,brewpub,229 W Montecito St,Santa Barbara,California,93101-3824,United States,34.41245574,-119.6954247
@@ -10394,8 +10394,8 @@ The Vine N Hop Shop,micro,1327 N. Carpenter Rd.,Brunswick,Ohio,44212,United Stat
 The Virginia Beer Company,micro,401 Second St,Williamsburg,Virginia,23185-4815,United States,,
 The Watchmakers Arms Brewery,micro,Goldstone Villas,Hove,East Sussex,BN3 3RU,England,50.834247,-0.17152
 The Welcome Swallow Brewery,micro,99 Ring Road,New Norfolk,TAS,7140,Australia,-42.7856979,147.0682983
-The Welder’s Dog,micro,101 Beardy Street,Armidale,NSW,2350,Australia,-30.5142565,151.6701048
-The Welder’s Dog Brewery,micro,101 Beardy Street,Armidale,NSW,2350,Australia,-30.5142565,151.6701048
+The Welder's Dog,micro,101 Beardy Street,Armidale,NSW,2350,Australia,-30.5142565,151.6701048
+The Welder's Dog Brewery,micro,101 Beardy Street,Armidale,NSW,2350,Australia,-30.5142565,151.6701048
 The White Hag Brewery,micro,"Unit 1, Block 2",Ballymote,Sligo,F56 YR52,Ireland,54.0893242,-8.5249166
 The Wicklow Brewery,micro,Main Street,Redcross,Wicklow,A67 H799,Ireland,52.8893592,-6.1471627
 The Wild Rover Brewery,micro,13921 Lynmar Blvd,Tampa,Florida,33626,United States,,
@@ -11145,7 +11145,7 @@ War Horse Brewing Company,brewpub,623 Lerch Rd Ste 5,Geneva,New York,14456-9295,
 WAR WATER BREWERY,brewpub,201 N Riverside Ave Ste C1-11,Saint Clair,Michigan,48079-5498,United States,,
 Warburger,brewpub,58 Kuhlemühler Weg,Warburg,Nordrhein-Westfalen,34414,Germany,51.4859788,9.1933475
 Ward House Brewery,micro,111 Elm Ave W,Waseca,Minnesota,56093-2433,United States,,
-Ward’s Brewery,micro,131 Auckland Street,Gladstone Central,QLD,4680,Australia,-23.8458485,151.2596117
+Ward's Brewery,micro,131 Auckland Street,Gladstone Central,QLD,4680,Australia,-23.8458485,151.2596117
 Waredaca Brewing Company,micro,4017 Damascus Rd,Laytonsville,Maryland,20882,United States,39.2250684,-77.0748401
 Warehouse Gourmet Bistro & Brew Pub,micro,7 Pennsylvania Ave,Hanover,Pennsylvania,17331-2432,United States,39.80232948,-76.98976977
 Warfield Distillery and Brewery,brewpub,280 N. Main St.,Ketchum,Idaho,83340-2759,United States,43.681482,-114.36394
@@ -11435,7 +11435,7 @@ Winery @Springvale,bar,907 East Coast Road,Singapore,Singapore,459107,Singapore,
 Winery Tapas Bar @Chijmes,bar,30 Victoria Street,Singapore,Singapore,187996,Singapore,1.2951320828701,103.85270133069
 Wingman Brewers,closed,509 1/2 Puyallup Ave,Tacoma,Washington,98421-1318,United States,47.24075878,-122.4291133
 Winkler,brewpub,6 Schanzgäßchen,Amberg,Bayern,92224,Germany,49.4459554,11.8624258
-Winnerâs Circle Brewing Company,contract,21 Whistler Court Apt 4,Saratoga Springs,New York,12866,United States,,
+Winner's Circle Brewing Company,contract,21 Whistler Court Apt 4,Saratoga Springs,New York,12866,United States,,
 Winter Hill Brewing Company,brewpub,328 Broadway,Somerville,Massachusetts,02145-2803,United States,,
 Wiretap Brewing Corporation,micro,341B South Avenue 17,Los Angeles,California,90031,United States,34.06852346,-118.2220376
 Wisconsin Brewing Co,regional,1079 American Way,Verona,Wisconsin,53593-9384,United States,42.9688832,-89.50895494
@@ -11508,7 +11508,7 @@ Woods Bar & Brewery,brewpub,1701 Telegraph Ave,Oakland,California,94612-2107,Uni
 Woods Beer Company,brewpub,1701 Telegraph Ave,Oakland,California,94612-2107,United States,37.8069575,-122.2704253
 Woods Boss Brewing Company,micro,2210 California St,Denver,Colorado,80205-2824,United States,39.7509153,-104.9845374
 Woods Cabin Brewery,planning,,Yarrow Point,Washington,98004,United States,,
-Woods CervecerÃ­a,brewpub,3801 18th St,San Francisco,California,94114-2615,United States,37.761163,-122.4285438
+Woods Cervecería,brewpub,3801 18th St,San Francisco,California,94114-2615,United States,37.761163,-122.4285438
 Woodstacker Beer Company,micro,850 Elm St,Manchester,New Hampshire,03101,United States,42.99003,-71.46309
 Woodstock Brewery,brewpub,252 Albert Road,Cape Town,Western Cape,7925,South Africa,-33.9272,18.4491
 Woodstock Brewhouse,brewpub,123 E Court St,Woodstock,Virginia,22664-1761,United States,38.88142648,-78.50414235
@@ -11602,7 +11602,7 @@ Young Veterans Brewing Company,micro,2505 Horse Pasture Rd Ste 104,Virginia Beac
 Young's Brewing,planning,,Wexford,Pennsylvania,15090,United States,,
 Your Mates Brewery,micro,41 Technology Drive,Warana,QLD,4575,Australia,-26.7269549,153.1232294
 Your Mates Brewing Co,micro,41 Technology Drive,Warana,QLD,4575,Australia,-26.7269549,153.1232294
-Yulli’s Brews,micro,75A Burrows Road,Alexandria,NSW,2015,Australia,-33.9121017,151.1887359
+Yulli's Brews,micro,75A Burrows Road,Alexandria,NSW,2015,Australia,-33.9121017,151.1887359
 Zaftig Brewing Co.,micro,7020 Huntley Rd Ste A,Columbus,Ohio,43229-1050,United States,40.1063329,-83.0003532
 Zambaldi Beer,contract,,Green Bay,Wisconsin,54305-0246,United States,,
 Zaubierei,closed,239 Riethweg,Vachdorf,Thüringen,98617,Germany,50.52604,10.53141
