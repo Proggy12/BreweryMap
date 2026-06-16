@@ -4,6 +4,7 @@ import pandas as pd
 
 df = pd.read_csv("breweries_clean.csv", dtype={"postal_code": str})
 save_path = Path("figs")
+save_path.mkdir(exist_ok=True)
 
 # Brewery type
 type_counts = df.loc[:, "brewery_type"].value_counts()
