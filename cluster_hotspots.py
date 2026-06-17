@@ -9,7 +9,7 @@ OUTPUT_CSV = "breweries_with_clusters.csv"
 OUTPUT_MAP_HOTSPOTS = "map_brewery_hotspots.html"
 OUTPUT_MAP_ALL = "map_breweries_all.html"
 OUTPUT_SUMMARY = "hotspot_summary.csv"
-save_path = Path("output")  # output directory for results
+save_path = Path("cluster_output")  # output directory for results
 save_path.mkdir(exist_ok=True)  # ensure output directory exists
 
 # DBSCAN parameters

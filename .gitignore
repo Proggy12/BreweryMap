@@ -9,12 +9,19 @@ wheels/
 # Virtual environments
 .venv
 
-#
+# stuff
 test_scripts/
 breweries_clean_backup.csv
 
-#data
+# data
 breweries.csv
 breweries.json
 breweries_clean.csv
+
+# output data
+breweries_clean.csv
 text_fixes_log.csv
+cluster_output/
+figs/
+classification_output/
+tour_output/
