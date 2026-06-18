@@ -12,6 +12,7 @@ wheels/
 # stuff
 test_scripts/
 breweries_clean_backup.csv
+breweries_backup.csv
 
 # data
 breweries.csv
