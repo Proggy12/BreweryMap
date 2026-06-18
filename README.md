@@ -59,10 +59,10 @@ Four classifiers were compared using RandomizedSearchCV (20 iterations, 5-fold C
 
 | Model | Test Accuracy | Test Macro-F1 |
 |-------|--------------|--------------|
-| Random Forest | 0.60 | 0.29 |
-| LightGBM | 0.46 | 0.25 |
-| XGBoost | 0.64 | 0.23 |
-| Logistic Regression | 0.29 | 0.19 |
+| Random Forest | 0.51 | 0.29 |
+| LightGBM | 0.48 | 0.27 |
+| XGBoost | 0.62 | 0.27 |
+| Logistic Regression | 0.28 | 0.19 |
 
 **Key finding:** Location alone is a weak predictor of brewery type. Latitude and longitude account for ~76% of feature importance in tree-based models, but performance on minority classes (regional, contract, planning) remains poor. This suggests brewery type depends more on individual business decisions than on geography.
 
@@ -79,8 +79,60 @@ cd BreweryMap
 ```
 
 Install [uv](https://docs.astral.sh/uv/) (if not already installed) and sync dependencies:
+git clone https://github.com/Proggy12/BreweryMap.git
+cd BreweryMap
+```
+
+Install [uv](https://docs.astral.sh/uv/) (if not already installed) and sync dependencies:
 ```bash
 uv sync
+```
+
+---
+
+## ▶️ Usage
+
+Run the scripts in this order:
+
+```bash
+# 1. Fetch raw data from the Open Brewery DB API
+python api_connection.py
+
+# 2. Repair encoding issues and normalize apostrophes
+python data_cleaning.py
+
+# 3. EDA notebook (optional, for data exploration)
+EDA.ipynb
+figures.py
+
+# 4. Geospatial hotspot clustering
+python cluster_hotspots.py
+
+# 5. Brewery tour route planning (edit FILTER_VALUE inside to change region)
+python brewery_tour.py
+
+# 6. Brewery type classification
+python brewery_type_classification.oy
+```
+
+---
+
+## 📦 Data Source
+
+All brewery data is fetched from the [Open Brewery DB](https://www.openbrewerydb.org/) via its public REST API (`https://api.openbrewerydb.org/v1/breweries`). No API key required. The dataset is fetched page by page (200 entries per request) and saved locally as `breweries.csv` and `breweries.json`.
+
+---
+
+## 📝 Notes
+
+- `postal_code` is always loaded as a string to preserve leading zeros (e.g. `"01234"`).
+- ~20% of breweries have no GPS coordinates (`latitude`/`longitude` are NaN). These are excluded from all geospatial analyses but retained in the cleaned CSV.
+
+---
+
+## 📄 License
+
+This project is for educational purposes. Brewery data is provided by [Open Brewery DB](https://www.openbrewerydb.org/) under the [MIT License](https://github.com/openbrewerydb/openbrewerydb/blob/master/LICENSE).
 ```
 
 ---
