@@ -79,8 +79,60 @@ cd BreweryMap
 ```
 
 Install [uv](https://docs.astral.sh/uv/) (if not already installed) and sync dependencies:
+git clone https://github.com/Proggy12/BreweryMap.git
+cd BreweryMap
+```
+
+Install [uv](https://docs.astral.sh/uv/) (if not already installed) and sync dependencies:
 ```bash
 uv sync
+```
+
+---
+
+## ▶️ Usage
+
+Run the scripts in this order:
+
+```bash
+# 1. Fetch raw data from the Open Brewery DB API
+python api_connection.py
+
+# 2. Repair encoding issues and normalize apostrophes
+python data_cleaning.py
+
+# 3. EDA notebook (optional, for data exploration)
+EDA.ipynb
+figures.py
+
+# 4. Geospatial hotspot clustering
+python cluster_hotspots.py
+
+# 5. Brewery tour route planning (edit FILTER_VALUE inside to change region)
+python brewery_tour.py
+
+# 6. Brewery type classification
+python brewery_type_classification.oy
+```
+
+---
+
+## 📦 Data Source
+
+All brewery data is fetched from the [Open Brewery DB](https://www.openbrewerydb.org/) via its public REST API (`https://api.openbrewerydb.org/v1/breweries`). No API key required. The dataset is fetched page by page (200 entries per request) and saved locally as `breweries.csv` and `breweries.json`.
+
+---
+
+## 📝 Notes
+
+- `postal_code` is always loaded as a string to preserve leading zeros (e.g. `"01234"`).
+- ~20% of breweries have no GPS coordinates (`latitude`/`longitude` are NaN). These are excluded from all geospatial analyses but retained in the cleaned CSV.
+
+---
+
+## 📄 License
+
+This project is for educational purposes. Brewery data is provided by [Open Brewery DB](https://www.openbrewerydb.org/) under the [MIT License](https://github.com/openbrewerydb/openbrewerydb/blob/master/LICENSE).
 ```
 
 ---
