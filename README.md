@@ -1,10 +1,10 @@
-# 🍺 BreweryMap
+# BreweryMap
 
 > A data science project exploring the Open Brewery DB — featuring geospatial hotspot detection, optimized brewery tour routing, and machine learning classification of brewery types.
 
 ---
 
-## 📊 Project Overview
+## Project Overview
 
 **Problem statement:**
 The [Open Brewery DB](https://www.openbrewerydb.org/) contains over 11,000 breweries worldwide with location, type, and contact data. Raw as-is, the dataset has encoding issues, missing coordinates, and inconsistent text, making it unsuitable for direct analysis.
@@ -23,7 +23,7 @@ Build a clean, reproducible data pipeline that transforms the raw brewery data i
 
 ---
 
-## 🔍 Research Questions & Results
+## Research Questions & Results
 
 ### 1. Where are the global brewery hotspots?
 Using DBSCAN clustering (eps=25 km, min_samples=5) on GPS coordinates with a Haversine distance metric, **222 hotspot clusters** were identified across 9,324 breweries with known coordinates (~80% of the dataset).
@@ -70,7 +70,7 @@ Four classifiers were compared using RandomizedSearchCV (20 iterations, 5-fold C
 
 ---
 
-## ⚙️ Setup
+## Setup
 
 Clone the repository:
 ```bash
@@ -90,7 +90,7 @@ uv sync
 
 ---
 
-## ▶️ Usage
+## Usage
 
 Run the scripts in this order:
 
@@ -117,27 +117,27 @@ python brewery_type_classification.oy
 
 ---
 
-## 📦 Data Source
+## Data Source
 
 All brewery data is fetched from the [Open Brewery DB](https://www.openbrewerydb.org/) via its public REST API (`https://api.openbrewerydb.org/v1/breweries`). No API key required. The dataset is fetched page by page (200 entries per request) and saved locally as `breweries.csv` and `breweries.json`.
 
 ---
 
-## 📝 Notes
+## Notes
 
 - `postal_code` is always loaded as a string to preserve leading zeros (e.g. `"01234"`).
 - ~20% of breweries have no GPS coordinates (`latitude`/`longitude` are NaN). These are excluded from all geospatial analyses but retained in the cleaned CSV.
 
 ---
 
-## 📄 License
+## License
 
 This project is for educational purposes. Brewery data is provided by [Open Brewery DB](https://www.openbrewerydb.org/) under the [MIT License](https://github.com/openbrewerydb/openbrewerydb/blob/master/LICENSE).
 ```
 
 ---
 
-## ▶️ Usage
+## Usage
 
 Run the scripts in this order:
 
@@ -164,19 +164,19 @@ python brewery_type_classification.oy
 
 ---
 
-## 📦 Data Source
+## Data Source
 
 All brewery data is fetched from the [Open Brewery DB](https://www.openbrewerydb.org/) via its public REST API (`https://api.openbrewerydb.org/v1/breweries`). No API key required. The dataset is fetched page by page (200 entries per request) and saved locally as `breweries.csv` and `breweries.json`.
 
 ---
 
-## 📝 Notes
+## Notes
 
 - `postal_code` is always loaded as a string to preserve leading zeros (e.g. `"01234"`).
 - ~20% of breweries have no GPS coordinates (`latitude`/`longitude` are NaN). These are excluded from all geospatial analyses but retained in the cleaned CSV.
 
 ---
 
-## 📄 License
+## License
 
 This project is for educational purposes. Brewery data is provided by [Open Brewery DB](https://www.openbrewerydb.org/) under the [MIT License](https://github.com/openbrewerydb/openbrewerydb/blob/master/LICENSE).
